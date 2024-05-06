@@ -1,0 +1,59 @@
+body {
+    font-family: "Arial", "Meiryo", sans-serif;
+  }
+  
+.google-fonts {
+        font-family: "Josefin Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight:400;
+        font-style:normal;
+}
+  .blue{
+    color:skyblue;
+  }
+
+.google-fonts {
+        font-family: "Josefin Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight:400;
+        font-style:normal;
+}
+  .pink{
+  color:rgb(255,192,203);
+}
+
+html {
+   font-size: 20px;
+}
+
+h1 {
+   font-size: 2em;
+   letter-spacing: 0.2em;
+}
+
+h1 {
+  text-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+}
+
+
+.text-pink {
+  text-align: center;
+  color: pink;
+}
+
+.text-skyblue {
+  color: skyblue;
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+}
+
+p{
+  text-align: center;
+}
+
+
+
+
