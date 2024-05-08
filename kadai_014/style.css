@@ -23,12 +23,12 @@ body {
 }
 
 html {
-   font-size: 20px;
+  font-size: 20px;
 }
 
 h1 {
-   font-size: 2em;
-   letter-spacing: 0.2em;
+   font-size: 40px;
+   letter-spacing: 3.0rem;
 }
 
 h1 {
@@ -64,6 +64,3 @@ h1 {
 #basic .bold {
    font-weight: bold;
 }
-
-
-
