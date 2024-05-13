@@ -19,16 +19,14 @@ body {
 html {
   font-size: 20px;
 }
-
+#basic{font-size: 2em;}
 h1 {
-   font-size: 2em;
+   font-size: 2rem;
    letter-spacing: 3.0rem;
-   text-shadow: 2px 2px 5px rgb(0,0,0,0,5);
+   text-shadow: 2px 2px 5px rgb(0,0,0,0.5);
    text-align: center;
-   h1 {
     border-bottom: 3px solid rgb(115,115,114);
   }
-}
 
 .text-pink {
   text-align: center;
